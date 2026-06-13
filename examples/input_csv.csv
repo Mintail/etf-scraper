@@ -1,0 +1,50 @@
+ISIN;Index;Region;TER;Replication;Dividends;Size;Issuer;GS;PEA;CIC;Stock exchange;Remarks
+LU0322250985;CAC40;France;0,20 %;Physical;Distributed;107 M$;Xtrackers;Yes;Yes;;"Gettex (Germany) Borsa Italiana Stuttgart Stock Exchange Xetra (Germany)";Best In France but Stock Exchange not good
+FR0007052782;CAC40;France;0,25 %;Physical;Distributed;3 428 M$;Amundi;Yes;Yes;;"Gettex (Germany) Euronext Paris London Stock Exchange";Good in France and good Stock Exchange
+DE0005933956;STOXX50;Eurozone;0,09 %;Physical;Distributed;6 845 M$;iShares;Yes;Yes;;"Gettex (Germany) Stuttgart Stock Exchange BATS Chi-X Europe SIX Swiss Exchange Xetra";
+LU0274211217;STOXX50;Eurozone;0,09 %;Physical;Distributed;4 976 M$;Xtrackers;Yes;Yes;;"Gettex (Germany) Borsa Italiana
+London Stock Exchange
+Six Swiss Exghange Stuttgart Stock Exchange Xetra (Germany)";
+IE0008471009;STOXX50;Eurozone;0,10 %;Physical;Distributed;4 538 M$;iShares;Yes;Yes;;"London Stock Exchange  Gettex (Germany) Stuttgart Stock Exchange  BATS Chi-X Europe
+Bolsa Mexicana de Valores Borsa Italiana Euronext Amsterdam
+Six Swiss Exghange Xetra (Germany)";Good in STOXX50 and good Stock Exchange
+LU0136234068;STOXX50;Eurozone;0,09 %;Physical;Distributed;570 M$;UBS;Yes;Yes;;"Gettex (Germany) Borsa Italiana Euronext Amsterdam London Stock Exchange  Six Swiss Exghange Xetra (Germany)";
+FR0007054358;STOXX50;Eurozone;0,20 %;Physical;Reinvested;3 640 M$;Amundi;Yes;Yes;;"Gettex (Germany) Stuttgart Stock Exchange Chi-X Europe Borsa Italiana  Euronext Paris Six Swiss Exghange Xetra (Germany)";Not good in STOXX50
+IE00B53L3W79;STOXX50;Eurozone;0,10 %;Physical;Reinvested;5 550 M$;iShares;Yes;Yes;Yes;"London Stock Exchange  Gettex (Germany) Stuttgart Stock Exchange 
+Bolsa Mexicana de Valores Borsa Italiana Euronext Amsterdam
+Six Swiss Exghange Xetra (Germany)";Best STOXX50
+FR0011550193;STOXX600;Europe;0,18 %;Synthethic;Reinvested;1 009 M$;BNP;Yes;Yes;Yes;"Gettex (Germany) Stuttgart Stock Exchange Euronext Paris Six Swiss Exghange Xetra (Germany)";
+IE00B53QG562;MSCI EMU;European Union;0,12 %;Physical;Reinvested;4 380 M$;iShares;Yes;Yes;;"London Stock Exchange  Gettex (Germany) Stuttgart Stock Exchange 
+Bolsa Mexicana de Valores Borsa Italiana Euronext Amsterdam
+Six Swiss Exghange Xetra (Germany)";"Large and Mid Caps in European Union
+Best in Europe but Stock Exchange only London"
+IE00B945VV12;FTStock Exchange Developped Europe;Europe;0,10 %;Physical;Distributed;3 740 M$;Vanguard;Yes;Yes;;"Euronext Paris  Gettex (Germany) Stuttgart Stock Exchange 
+Bolsa Mexicana de Valores Borsa Italiana Frankfurt Stock Exchange Euronext Amsterdam London Stock Exchange
+Six Swiss Exghange Xetra (Germany)";Large and Mid Caps in Europe
+IE00BKX55S42;FTStock Exchange Developped Europe ex UK;Europe;0,10 %;Physical;Distributed;2 998 M$;Vanguard;Yes;Yes;;"Euronext Paris  Gettex (Germany) Stuttgart Stock Exchange 
+Bolsa Mexicana de Valores Frankfurt Stock Exchange Euronext Amsterdam London Stock Exchange Xetra (Germany)";"Large and Mid Caps in Europe without UK 
+Not good in Europe"
+FR0011871128;SPX;USA;0,12 %;Synthethic;Reinvested;732 M$;Amundi;Yes;Yes;Yes;Euronext Paris ;
+FR0011871110;NASDAQ;USA;0,30 %;Synthethic;Reinvested;681 M$;Amundi;Yes;Yes;Yes;Euronext Paris ;Best in USA
+LU1681043599;MSCI World;World;0,38 %;Synthethic;Reinvested;5 023 M$;Amundi;Yes;Yes;Yes;"Gettex (Germany) Stuttgart Stock Exchange  Borsa Italiana Euronext Paris  Six Swiss Exchange Xetra (Germany)";Good and good Stock Exchange
+LU1681038672;RusStock Exchangell 2000;USA;0,35 %;Synthethic;Reinvested;762 M$;Amundi;Yes;Yes;;"Gettex (Germany) Stuttgart Stock Exchange  Borsa Italiana Euronext Paris  Six Swiss Exchange Xetra (Germany)";Small Caps in USA
+LU1681038839;RusStock Exchangell 2000;USA;0,35 %;Synthethic;Reinvested;123 M$;Amundi;Yes;Yes;;"Gettex (Germany) Euronext Paris  London Stock Exchange Six Swiss Exchange";
+FR0011871078;MSCI China ESG Leaders Stock Exchangelect 5 % Issuer Capped;China;0,65 %;Synthethic;Reinvested;61 M$;Amundi;Yes;Yes;Yes;Euronext Paris ;Good
+DE000A0H0728;Bloomberg Commodities;World?;0,46 %;Synthethic;No dividend;266 M$;iShares;Yes;Yes;Yes;"Gettex (Germany) Stuttgart Stock Exchange  Borsa Italiana Euronext Amsterdam Euronext Paris  Xetra (Germany)";Not good
+FR0013346681;Solactive ESTR Overnight Total Return;Europe;0,25 %;Synthethic;No dividend;365 M$;Amundi;Yes;Yes;Yes;Euronext Paris ;Return very low, but constant (~2%/year) - volatility ~1.5%
+DE0002635307;STOXX600;Europe;0,20 %;Physical;Distributed;8 090 M$;iShares;Yes;No;Yes;"Gettex (Germany) Stuttgart Stock Exchange 
+Bolsa Mexicana de Valores Borsa Italiana
+Six Swiss Exchange Xetra (Germany)";No good Stock Exchange
+LU0328475792;STOXX600;Europe;0,20 %;Physical;Reinvested;3 164 M$;Xtrackers;Yes;No;Yes;"Gettex (Germany)
+Borsa Italiana
+London Stock Exchange Stuttgart Stock Exchange Xetra (Germany)";Good in Europe
+IE00B5BMR087;SPX;USA;0,07 %;Physical;Reinvested;108 560 M$;iShares;Yes;No;Yes;"London Stock Exchange  Gettex (Germany) Stuttgart Stock Exchange 
+Bolsa Mexicana de Valores Borsa Italiana Euronext Amsterdam
+Six Swiss Exghange Xetra (Germany)";Good in USA but Stock Exchange only London
+FR0010429068;MSCI Emerging Markets;Emerging Markets;0,55 %;Synthethic;Reinvested;839 M$;Amundi;Yes;No;Yes;"Gettex (Germany)
+Borsa Italiana
+Euronext Paris  Six Swiss Exchange Xetra (Germany)";Climate Change
+IE00B02KXH56;MSCI Japan;Japan;0,12 %;Physical;Distributed;1 455 M$;iShares;Yes;No;Yes;Euronext Paris ;
+IE00B4ND3602;Gold Index;Gold;0,12 %;Physical;Reinvested;21 136 M$;iShares;Yes;No;;;
+FR0013411980;TOPIX;Japan;0,20 %;Synthethic;Reinvested;69 M$;Amundi;No;Yes;Yes;;
+FR0013411998;TOPIX;Japan;0,48 %;Synthethic;Reinvested;30 M$;Amundi;No;Yes;Yes;;Same as FR0013411980 + EUR-YEN hedged
