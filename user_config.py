@@ -12,8 +12,8 @@ Sections
 
 ########## MAIN INPUTS ##########
 path             = "examples/"          # Path to the folder containing input files
-input_file       = "input_txt.txt"      # Name of the input file
-output_file      = "etf_gs.xlsx"        # Name of the output file
+input_file       = "input_test.txt"     # Name of the input file
+output_file      = "output.xlsx"        # Name of the output file
 use_input_format = False                # If input_file and output_file are excel,
                                         # True = use input_file format into the output_file
 override_input   = False                # If input_file == output_file: False = create a backup copy
