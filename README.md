@@ -208,3 +208,10 @@ This project is built around three principles:
 2. **Config-driven architecture**: no hardcoded scraping logic.
 3. **DOMPath-centric extraction**: all data flows through structured DOM navigation.
 
+---
+
+## License
+
+MIT License.
+
+
